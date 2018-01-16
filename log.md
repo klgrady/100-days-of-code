@@ -17,13 +17,13 @@
 **Link(s) to work**: [Testing website](http://testing.klgrady.com/wp)
 
 
-### Day 3:
+### Day 3: January 15, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Some testing. 
 
-**Thoughts**: 
+**Thoughts**: I meant to spend time on Udacity today, but life. Also, I can no longer work asst home if the Y's are around. They're noisy and require interaction. 
 
-**Link(s) to work**:
+**Link(s) to work**: Same as before. 
 
 
 ### Day 4:
