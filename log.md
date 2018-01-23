@@ -26,13 +26,15 @@
 **Link(s) to work**: Same as before. 
 
 
-### Day 4:
+### Day 4: January 22, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Oops! Have forgotten to log progress. Lots of cleanup and streamlining backend, improving UI, expanding usability. Also started milspotsy.com. Just a holder page in place for now.
 
-**Thoughts**: 
+**Thoughts**: I feel like I'm trudging along, but I know what I'm doing is good stuff. I also know I really need to insert some nonces in this business.
 
-**Link(s) to work**:
+**Link(s) to work**: 
+1. Same as before.
+2. http://milspotsy.com (until DNS is updated, parked at http://milspotsy.klgrady.com)
 
 
 ### Day 5:
