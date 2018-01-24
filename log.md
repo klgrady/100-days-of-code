@@ -37,13 +37,13 @@
 2. http://milspotsy.com (until DNS is updated, parked at http://milspotsy.klgrady.com)
 
 
-### Day 5:
+### Day 5: January 23, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Streamlining procedural form and improving UI.
 
-**Thoughts**: 
+**Thoughts**: So close to done!
 
-**Link(s) to work**:
+**Link(s) to work**: Same as it ever was.
 
 
 ### Day 6:
