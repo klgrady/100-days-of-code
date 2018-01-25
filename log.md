@@ -46,13 +46,13 @@
 **Link(s) to work**: Same as it ever was.
 
 
-### Day 6:
+### Day 6: January 24, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Backend functioning! Hunted down bugs and killed them dead. Expanded search function for edit/delete pages.
 
-**Thoughts**: 
+**Thoughts**: I think I'm nearly done. Just need to walk through the checklist!
 
-**Link(s) to work**:
+**Link(s) to work**: Same as it ever was.
 
 
 ### Day 7:
